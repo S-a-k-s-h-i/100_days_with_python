@@ -1,0 +1,11 @@
+Program to print ASCII Value of a character
+
+Example:
+Input:g
+Output:103
+
+Input:a
+Output:97
+
+Input:A
+Output:65
