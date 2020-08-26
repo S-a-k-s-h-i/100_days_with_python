@@ -1,0 +1,14 @@
+Python Program for Sum of squares of first n natural numbers
+
+Given a positive integer N. The task is to find sum of 1^2 + 2^2 + 3^2 + ….. + N^2.
+
+Example:
+Input:7
+Output:140
+Explanation: 1^2+2^2+3^2+4^2+5^2+6^2+7^2=140
+
+Input:5
+Output:55
+Explanation: 1^2+2^2+3^2+4^2+5^2=55
+
+
