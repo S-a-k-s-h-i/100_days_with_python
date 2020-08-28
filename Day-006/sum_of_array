@@ -1,0 +1,13 @@
+Python Program to find sum of array
+
+In an array of integers, find sum of its elements.
+
+Examples :
+
+Input :1 2 3 4
+Output : 10
+1 + 2 + 3 + 4 = 10
+
+Input : arr[] =10 15 20
+Output : 45
+
