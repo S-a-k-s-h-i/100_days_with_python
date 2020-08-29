@@ -1,0 +1,10 @@
+Python Program to find largest element in an array
+
+In an array, find the largest element in it.
+
+Input :5 9 2 3 7 1
+Output : 9
+
+Input : 15 32 89 67 21 12 78 70
+Output : 100
+
