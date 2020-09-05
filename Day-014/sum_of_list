@@ -1,0 +1,11 @@
+Python program to find sum of elements in list
+
+A list of numbers, write a Python program to find the sum of all the elements in the list.
+
+Example:
+
+Input: [12, 15, 3, 10]
+Output: 40
+
+Input: [17, 5, 3, 5]
+Output: 33
