@@ -1,0 +1,13 @@
+Remove multiple elements from a list in Python.
+
+A list of numbers, write a Python program to remove multiple elements from a list based on the given condition.
+
+Example:
+
+Input: [12, 15, 3, 10]
+       Remove = [12, 3]
+Output: New_List = [15, 10]
+
+Input: [2, 5, 13, 10, 19, 45, 67, 120]
+Output: Remove = [13, 120, 5, 10], New_List = [2, 19, 45, 67]
+
