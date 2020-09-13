@@ -1,0 +1,9 @@
+Reverse words in a given String in Python
+
+Input a string and we need to reverse words of given string ?
+
+Examples:
+
+Input : str = "geeks quiz practice code"
+Output : str = "code practice quiz geeks"
+
