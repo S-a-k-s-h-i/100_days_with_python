@@ -1,0 +1,10 @@
+To remove i’th character from string in Python
+
+Example:
+Input:LearningNew
+      3
+Output:LerningNew
+
+Input:PythonCode
+      1
+Output:ythonCode
