@@ -1,0 +1,14 @@
+Python program to count number of vowels using sets in given string
+
+Given a string, count the number of vowels present in given string using Sets.
+
+Prerequisite: Sets in Python
+
+Examples:
+
+Input : GeeksforGeeks
+Output : No. of vowels : 5
+
+Input : Hello World
+Output : No. of vowels :  3
+
