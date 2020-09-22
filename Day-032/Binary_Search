@@ -1,0 +1,27 @@
+Python Program for Binary Search ( Iterative or Recursive )
+*To apply Binary Search all the elements should be sorted.
+
+We are given an Array, we have to find whether the target element present in the array or not.
+Initially, st=0
+           end=length of the array -1
+1.First we find the index of the middle element
+        m=(st+end)//2
+        then we compare the middle element with the target no.If it matches then we return the index of the middle element.
+
+2.Else we find whether the target element is smaller or greater than the middle element.
+       If target> middle element than
+          target element can only lie in the right(greater) half sub array and st=m+1 and end is same.
+       If target<middle element than
+          target element can only lie in the left(smaller) half sub array and end=m-1 and st is same.
+3.And we do this until st<=end.If the element does not exist in array it returns -1.
+
+Example:
+Input:32 45 54 67 89 100
+      89
+Output:4
+
+Input:1 3 5 7 9 10 67 101
+      89
+Output:-1 
+ 
+
