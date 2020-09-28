@@ -1,0 +1,8 @@
+Remove all duplicates from a given string in Python.
+
+Input a string and we need to remove all duplicates from it? What will be the output if the order of character matters?
+Examples:
+
+Input : geeksforgeeks
+Output : geksfor
+
