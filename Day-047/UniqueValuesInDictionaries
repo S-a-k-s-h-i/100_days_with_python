@@ -1,0 +1,13 @@
+Python – Extract Unique values dictionary values
+
+Sometimes, while working with data, we can have problem in which we need to perform the extraction of only unique values from dictionary values list. This can have application in many domains such as web development. Lets discuss certain ways in which this task can be performed.
+
+Input:
+4
+asd 1 4 6 87
+we 3 5 7 9
+qwe 12 7 9 1
+re 6 12 23 87
+
+Output:
+[1, 3, 4, 5, 6, 7, 9, 12, 23, 87]
