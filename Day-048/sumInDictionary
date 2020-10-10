@@ -1,0 +1,26 @@
+Python program to find the sum of all items in a dictionary
+
+Input a dictionary in Python, write a Python program to find the sum of all Items in the dictionary.
+
+Example:
+
+Input:
+3
+a 100
+b 200
+c 300
+
+Output:
+600
+
+Input:
+3
+x 25
+y 18
+z 45
+
+Output:
+88
+
+
+
