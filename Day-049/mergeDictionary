@@ -1,0 +1,18 @@
+Python | Merging two Dictionaries
+
+** in Python 
+ 
+This is generally considered a trick in Python where a single expression is used to merge two dictionaries and stored in a third dictionary. The single expression is **. This does not affect the other two dictionaries. ** implies that an argument is a dictionary. Using ** [double star] is a shortcut that allows you to pass multiple arguments to a function directly using a dictionary.
+
+Input:
+Length of dictionary1 2
+length of dictionary2 2
+a 10
+b 8
+dictionary1 =  {'b': 8, 'a': 10}
+d 6
+c 4
+dictionary2 =  {'d': 6, 'c': 4}
+
+Output:
+{'b': 8, 'd': 6, 'c': 4, 'a': 10}
